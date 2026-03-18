@@ -38,9 +38,11 @@ HSE Final Year Project — Time Series Forecasting (2025–2026)
 │   └── analysis_results.ipynb  # EDA + анализ результатов
 ├── requirements.txt
 │
-├── run_colab.ipynb             # Запуск
+├── run_colab.ipynb             # Запуск pipeline
 │
-└── Отчёт
+├── submission_ensemble_new.csv.gz  # Submit-файл 
+│
+└── report.md                   # Отчёт
 ```
 
 ## Запуск
