@@ -1,6 +1,6 @@
 # Favorita Store Sales Forecasting
 
-HSE Final Year Project — Time Series Forecasting (2025–2026)
+HSE Time Series Course Project — Time Series Forecasting (2025–2026)
 
 ## Задача
 
